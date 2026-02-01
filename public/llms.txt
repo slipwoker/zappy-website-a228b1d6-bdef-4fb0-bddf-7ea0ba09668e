@@ -1,53 +1,55 @@
-# קצב בשרון — Generative Engine Optimization Map
-
-> A מזון ובשר business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://-a228b1d6.zappy5.app
+https://example.com
 
 ### About
-https://-a228b1d6.zappy5.app/about
+https://example.com/about
 
 ### Offerings
-https://-a228b1d6.zappy5.app/offerings
+https://example.com/offerings
 
 ### Contact
-https://-a228b1d6.zappy5.app/contact
+https://example.com/contact
+
+### Products
+https://example.com/products
+המוצרים שלנו - קצב בשרון
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - קצב בשרון
+
+### Category
+https://example.com/category/:slug
+מוצרים - קצב בשרון
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-a228b1d6.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-a228b1d6.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-a228b1d6.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About קצב בשרון
-קצב בשרון is a business in the מזון ובשר industry.
-
-## Target Audience
-לקוחות שצריכים בשר, אוהבי בשר
-
-## Industry
-מזון ובשר
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://-a228b1d6.zappy5.app/sitemap.xml
-- **Robots.txt**: https://-a228b1d6.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
