@@ -1,6 +1,4 @@
-# קצב בשרון — Generative Engine Optimization Map
-
-> A מזון ובשר business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -48,15 +46,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About קצב בשרון
-קצב בשרון is a business in the מזון ובשר industry.
-
-## Target Audience
-לקוחות שצריכים בשר, אוהבי בשר
-
-## Industry
-מזון ובשר
-
+## About Business
 ---
 
 # Additional Resources
